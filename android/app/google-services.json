@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35304500571",
+    "firebase_url": "https://nossi-net.firebaseio.com",
+    "project_id": "nossi-net",
+    "storage_bucket": "nossi-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35304500571:android:16567bbd8c277eeb9bbe7e",
+        "android_client_info": {
+          "package_name": "com.kerimbora.nossinet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35304500571-6ee2f8rsjl8o3mimpabo04ptpfjjcrnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0koNUKmfn22wuhyXENeq_r8JVVzny2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35304500571-6ee2f8rsjl8o3mimpabo04ptpfjjcrnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
